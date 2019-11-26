@@ -1,0 +1,9 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\bin\Debug\Ex4-3.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\bin\Debug\Ex4-3.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\bin\Debug\Ex4-3.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4-3.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4_3.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4_3.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4-3.csproj.GenerateResource.Cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4-3.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-3\Ex4-3\obj\Debug\Ex4-3.pdb

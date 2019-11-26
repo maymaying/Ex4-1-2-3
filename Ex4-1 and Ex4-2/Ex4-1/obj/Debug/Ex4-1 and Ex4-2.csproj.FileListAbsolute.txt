@@ -1,0 +1,3 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-1 and Ex4-2\Ex4-1\bin\Debug\Ex4-1.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-1 and Ex4-2\Ex4-1\obj\Debug\Ex4-1.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex4-1 and Ex4-2\Ex4-1\obj\Debug\Ex4-1.pdb
